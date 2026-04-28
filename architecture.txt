@@ -1,0 +1,24 @@
+Kaggle NASA Asteroid Dataset
+        ↓
+Data Collection
+        ↓
+Data Cleaning & Preprocessing
+        ↓
+Exploratory Data Analysis (EDA)
+        ↓
+Feature Engineering
+        ↓
+Train/Test Split
+        ↓
+Model Training
+(Logistic Regression / Random Forest / XGBoost)
+        ↓
+Model Evaluation
+        ↓
+Best Model Selection
+        ↓
+Deployment (Streamlit)
+        ↓
+User Inputs Asteroid Features
+        ↓
+Prediction: Hazardous / Safe
